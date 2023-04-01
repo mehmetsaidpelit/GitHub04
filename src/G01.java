@@ -25,6 +25,10 @@ public class G01 {
             git push
 
 
+
+
          */
+
+        System.out.println("islem ekleyelim");
     }
 }
